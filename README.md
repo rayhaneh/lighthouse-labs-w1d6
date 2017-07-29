@@ -1,0 +1,1 @@
+# lighthouse-labs-w1d6
